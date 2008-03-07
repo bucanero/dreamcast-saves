@@ -1,0 +1,5 @@
+v96870.vmi=OYUN FULL GECILDI(EUROPE)
+v57870.vmi=Ending movie unlocked plus unbeatablerecords.VF 4 life 
+v42173.vmi=Ending unlocked! 
+00001125.vmi=COMPLETE! Ending movie unlocked. 
+vf3tb.VMI=Perfect Save! All Secret Open!

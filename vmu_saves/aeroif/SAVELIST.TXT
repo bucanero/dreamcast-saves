@@ -1,0 +1,12 @@
+aerocnem.VMI=best save! unlock all plane!
+aeroife0.VMI=Emblem Data
+aeroife1.VMI=Emblem Data
+aeroife2.VMI=Emblem Data
+aeroife3.VMI=Emblem Data
+aeroife4.VMI=Emblem Data
+aeroife5.VMI=Emblem Data
+aeroife6.VMI=Emblem Data
+aeroife7.VMI=Emblem Data
+aeroife8.VMI=Emblem Data
+aeroife9.VMI=Emblem Data
+aeroifea.VMI=Emblem Data

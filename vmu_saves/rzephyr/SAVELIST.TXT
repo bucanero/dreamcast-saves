@@ -1,0 +1,2 @@
+XIFENG01.VMI=Start with 999999 Money!
+XIFENG02.VMI=The Latest Save!

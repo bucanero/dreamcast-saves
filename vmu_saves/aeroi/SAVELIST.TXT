@@ -1,0 +1,16 @@
+aeroisys.VMI=best save! unlock all plane!
+aeroie00.VMI=Emblem Date 1
+aeroie01.VMI=Emblem Date 2
+aeroie02.VMI=Emblem Date 3
+aeroie03.VMI=Emblem Date 4
+aeroie04.VMI=Emblem Date 5
+aeroie05.VMI=Emblem Date 6
+aeroie06.VMI=Emblem Date 7
+aeroie07.VMI=Emblem Date 8
+aeroie08.VMI=Emblem Date 9
+aeroie09.VMI=Emblem Date 10
+aeroie10.VMI=Emblem Date 11
+aeroie11.VMI=Emblem Date 12
+aeroie12.VMI=Emblem Date 13
+aeroie13.VMI=Emblem Date 14
+aeroie14.VMI=Emblem Date 15

@@ -1,0 +1,7 @@
+SRWSYSTE.VMI=System data! all open in option!
+SRWREAL1.VMI=Money Max at stage 2! (Real Story)
+SRWREAL2.VMI=ALL Max at stage 2! (Real Story)
+SRWSUPE1.VMI=Money Max at stage 2! (Super Story)
+SRWSUPE2.VMI=ALL Max at stage 2! (Super Story)
+SRWLAST1.VMI=Money Max at Last stage!
+SRWLAST2.VMI=ALL Max at Last stage!

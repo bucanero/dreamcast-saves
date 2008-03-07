@@ -1,0 +1,2 @@
+v55486.vmi=todas as fases abertas e recordes 
+v60365.vmi=All Fishing spots are open. All fish have been caught. Game has been completed. 

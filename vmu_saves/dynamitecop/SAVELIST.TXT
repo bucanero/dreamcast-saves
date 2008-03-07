@@ -1,0 +1,11 @@
+v38473.vmi=The best save, with everything unlocked, including illustrations , characters,  and missions. 
+v65817.vmi=All 6 missions finished,good bonus game score,and all illustrations found. All characters unlocked. 
+v18467.vmi=[ImportCase file, unlocked missions 4,5,6. Completed missions 4,5.R Rare file! (5 blocks) without Detonator pack. 
+v99721.vmi=All levels unlocked, characters found, pictures located, and extra modes cleared, including the insanely hard 100 enemy kitchen brawl which took 5 years off of my life. 
+v99226.vmi=Every mission completed. Cindy & Originial Bruno from Die Hard Arcade unlocked. Super Detenator Pack added as well.NOTE:THERE IS NO MONKEY!! 
+v78278.vmi=Perfect save. Combat file with allpictures found and all missions beat including 4,5,& 6. Two secretchars unlocked . I don't think thereis a secret monkey char. Could'nt find it even with mission 6 com-pleted, the most frustrating impossible le
+v92082.vmi=All artwork unlocked, Cindy and alternate Bruno unlocked. Just play through missions 4 to 6 to unlock the monkey. 
+v26274.vmi=Combat File & Missions 1 & 3 are completed. 
+00000728.vmi=Dynamite Cop "Combat File" with detonator pack and mission #1 completed. 
+kuaida2.VMI=Perfect Save! Everything Unlocked!
+DET_PACK.VMI=Dynamite Cop Detonator Pack.

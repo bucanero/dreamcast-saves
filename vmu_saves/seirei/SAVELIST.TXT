@@ -1,0 +1,2 @@
+SHENGLJ1.VMI=Money Max at Stage 1!
+SHENGLJ2.VMI=High Level at Stage 1!

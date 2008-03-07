@@ -1,0 +1,9 @@
+DP3__S68.VMI=Super BookMark.Incloud Most Chinese sites!
+DP3__SBK.VMI=Super BookMark.DC Saves Bank Personal Version.
+DP3__SRM.VMI=Super BookMark.VMU File Renamer Personal Version.
+DP3__SFT.VMI=Super BookMark.FTP Server Quick Login.
+DP3__SCH.VMI=Super BookMark.Allows you to use Ch@b Menu, even if some InGameDP3 cant use Ch@b Menu!
+DP3__STV.VMI=Super BookMark.Text to Voice!
+DP3__SYH.VMI=Super BookMark.Yahoo Quick Search!
+DP3__MOP.VMI=Mopsite.com IRC chat Server!
+DP3__SYS.VMI=Personal System Sate!

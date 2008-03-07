@@ -1,0 +1,2 @@
+magicthe.VMI=Perfect Save! All Open!
+00000026.vmi=Last Save! For Ending!

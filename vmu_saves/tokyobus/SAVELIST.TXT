@@ -1,0 +1,2 @@
+TOKYOBUS.VMI=JP Perfect Save! All Open!
+TOKYOBU2.VMI=All tracks unlocked.

@@ -1,0 +1,9 @@
+v40328.vmi=Completo, todas as iscas, todas as cores,todos os torneios em primeiro lugar, todospersonagens. 
+v41303.vmi=Completissimo. 
+v88108.vmi=I have beated the game.I Got 90 lures,12 togo 
+v32382.vmi=All tourney's beaten, all charatersgained. Only a few lures left to get.  
+v19323.vmi=Fourth stage of pro tourny. Only a couple lures left, all chars unlocked. 
+v46495.vmi=Im in the 3rd tournament and unlockedlots of lures and colors and 2 xtra characters.           
+v99176.vmi=The first tournament has beenbeaten with all first placeand biggest fish awards.Openedsome lures and one secret guy. 
+bass2jp1.VMI=Good save for Bass Fishing 2! (Jap)
+SBASSF2.VMI=Almost all unlocked.

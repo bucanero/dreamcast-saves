@@ -1,0 +1,2 @@
+sw1_sys.VMI=Perfect Save! Everything Unlocked!
+sw1_007.VMI=Last Save!

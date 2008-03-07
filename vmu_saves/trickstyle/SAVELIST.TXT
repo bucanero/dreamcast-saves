@@ -1,0 +1,5 @@
+v39698.vmi=All levels and all tracks are unlock. 
+v75229.vmi=All levelz open 
+v87808.vmi=Perfect save, everything is open and unlocked. 
+v38795.vmi=PLAY AS SEPHEROTH 
+00000168.vmi=Game completed, All boards and tricks and all tracks unlocked. 

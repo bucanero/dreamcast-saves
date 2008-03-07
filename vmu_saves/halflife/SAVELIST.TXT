@@ -1,0 +1,2 @@
+HLDC_CFG.VMI=Perfect Save! All Secret Open!
+HLDC_000.VMI=Good Half-Life save!

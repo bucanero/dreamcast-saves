@@ -1,0 +1,4 @@
+v25804.vmi=Everything completed. 
+v57068.vmi=All pictures in gallery 
+v50562.vmi=Cannon Spike: Icon data  
+v62540.vmi=Everything unlocked. 

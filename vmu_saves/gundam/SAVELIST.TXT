@@ -1,0 +1,17 @@
+v71807.vmi=All codes new suits for you and them 
+v58359.vmi=Each stat at 100% beat game 
+v44953.vmi=Beat the game. Opened cheat option 
+v31604.vmi=This will unlock all the extra options for 0079 
+v79900.vmi=the game is beat on all 3 difficulties with extra options 
+v95962.vmi=Everything beat, Extra options unlocked 
+v92694.vmi=All options and unbeatable scores. 
+v84481.vmi=Extra options available plus my 3 best levels. 
+v958.vmi=Game beatten on hard. All special options available. The best stats possible. 
+v93011.vmi=ex. options /beaten 2 difficulties 
+v11985.vmi=beat on all difficulties and have special options[ on level 5 on hard mode without codes] 
+v68457.vmi=3levels saved and special options. 
+v61660.vmi=beat it 
+GUNDAM1.VMI=Good save for Gundam Side Story 0079!
+GUNDAM2.VMI=Good save for Gundam Side Story 0079!
+GUNDAM3.VMI=Good save for Gundam Side Story 0079!
+v67186.vmi=This save contains all extra options, and yes they are very cool to play with. The game is won on easy, medium, and hard. Its pretty damn cool. 

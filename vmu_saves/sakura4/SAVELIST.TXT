@@ -1,0 +1,7 @@
+00000023.vmi=Perfect Save! Everything Unlocked!
+sw4_001.VMI=Game file! Sakura's Ending!
+sw4_002.VMI=Game file! Erika's Ending!
+sw4_003.VMI=Game file! Roberia's Ending!
+sw4_004.VMI=Game file! Orihime's Ending!
+sw4_005.VMI=Game file! Sumire's Ending!
+sw4_006.VMI=Game file! Gorisei's Ending!

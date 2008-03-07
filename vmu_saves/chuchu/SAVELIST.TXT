@@ -1,0 +1,16 @@
+v60815.vmi=OYUN FULL GECILDI(EUROPE)
+v37721.vmi=This save has stage challenge half done and beat first puzzle mode now halfway through hard try my puzzle! 
+v83327.vmi=That is the best save of this game. Everything is made. 
+v38939.vmi=Most of the puzzles completed and 2 puzzles i made, see if you can beat them! enjoy! e-mail me if you beated them 
+v7640.vmi=A VMU picture of a rocket at Dreamcast menue. 
+v46021.vmi=Main Save file, some things unlocked. 
+v59325.vmi=all puzzles completed 
+MYCHU1.VMI=ChuChu Rocket! User Puzzle #1
+SHARKCH1.VMI=ChuChu Rocket! User Puzzle #3
+SHARKCH2.VMI=ChuChu Rocket! User Puzzle #4
+SHARKCH3.VMI=ChuChu Rocket! User Puzzle #5
+SHARKCH4.VMI=ChuChu Rocket! User Puzzle #6
+00001556.VMI=ChuChu Rocket! User Puzzle #7
+YASUMURA.VMI=ChuChu Rocket! Character File. This download will change the KapuKapus into UFOs and the ChuChus into cows.
+00016477.VMI=ChuChu Rocket Character Download. This download gives your ChuChus and KapuKapus a new, cartoony look.
+00016486.VMI=Direct from Sonic Team, it's a pack of all-new ChuChu Rocket puzzles! This is a 75-block file that unpacks into 25 separate three-block puzzle files.

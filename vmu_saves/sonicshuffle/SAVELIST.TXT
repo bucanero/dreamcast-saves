@@ -1,0 +1,5 @@
+v58859.vmi=all pic bought, all 8 characters, game fully beaten. 
+v61627.vmi=All hidden characters in VS Mode 
+v98575.vmi= All characters unlocked. 
+v20598.vmi=ALL the goodies open 
+SONICEX.VMI=Sonic Shuffle Best Save

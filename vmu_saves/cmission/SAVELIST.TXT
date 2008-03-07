@@ -1,0 +1,5 @@
+v23841.vmi=100% COMPLETE 
+v1309.vmi=All training levels completed (including reflexes) also another world missions. 
+v76464.vmi=All missions completed. 
+cmission.VMI=Perfect Save! All Open!
+CONF_MS.VMI=All unlocked.

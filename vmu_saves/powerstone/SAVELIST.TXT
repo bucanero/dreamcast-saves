@@ -1,0 +1,9 @@
+v27222.vmi=Unlocked everything. All character and weapons, unlocked gallery and music hall. 
+v39744.vmi=Ok ok listen up this save has everything besides artwork and music hall. 
+v74193.vmi=Decent save. Not exactly the best you can get, but I've got most of the secrets and hidden characters unlocked! 
+v83943.vmi=This is the best it gets!!!I have everything, and I mean everything unlocked...even the art museum and the soundthingy opened. This tookalot of work so please write back ASAP!!! 
+v62607.vmi=Everything including art gallery and music hall! 
+v79451.vmi=Every secret and every character with everything else. 
+v72823.vmi=Perfect Save Press L to taunt Energy re-fill between battles: off 
+00000033.vmi=Everything complete,all pages opened. 
+PSTONE1.VMI=Perfect Save! All secret open!

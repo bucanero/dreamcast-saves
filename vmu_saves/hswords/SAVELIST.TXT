@@ -1,0 +1,3 @@
+100sword.VMI=Personal Save! Stage 5!
+100swor2.VMI=have a lot of special items!
+100SWOR3.VMI=Last Save! will be cleard!
