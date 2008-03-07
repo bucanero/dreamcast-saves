@@ -1,0 +1,2 @@
+supehero.VMI=Perfect Save! All Secret Open!
+SPHERO.VMI=All unlocked.

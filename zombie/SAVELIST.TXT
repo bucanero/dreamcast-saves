@@ -1,0 +1,5 @@
+v30965.vmi=red blood, extra option, free play mode, tranning mode 
+v91226.vmi=TUDO LIBERADO 
+v26491.vmi=Everything unlocked 
+v97447.vmi=Unlimited continues & Infinite life, as well as red blood. Change blood color & # of continues in the options mode. The infinite life is for Original Mode only. 
+ZOMBIERE.VMI=Best Save! Everything Unlocked!

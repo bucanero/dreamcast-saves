@@ -1,0 +1,2 @@
+TEDAH2e1.VMI=Special Song! Sakura Wars!
+TEDAH2e2.VMI=Special Song! Around The World!

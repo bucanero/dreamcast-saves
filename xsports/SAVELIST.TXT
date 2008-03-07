@@ -1,0 +1,9 @@
+v34612.vmi=I have all the levels and sports in this save. 
+v94008.vmi=I have  all the bonus pointsand tracks except one.  
+v37050.vmi=Game complete with all the sportsavaliable. 
+v20833.vmi=This game save is on the perfect middle. 
+exsports.VMI=Perfect Save! All Secret Open!
+EXTS1.VMI=Xtreme Sports save.
+EXTS2.VMI=Xtreme Sports save.
+EXTS3.VMI=Xtreme Sports save.
+EXTS4.VMI=Xtreme Sports save.

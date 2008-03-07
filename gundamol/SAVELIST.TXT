@@ -1,0 +1,4 @@
+GUNDAMO3.VMI=Best MS,best ships,all pilot lv20
+GUNDAMOL.VMI=A very interesting save
+GUNDAMO1.VMI=Clear Save! High level of Pilots
+GUNDAMO2.VMI=Cool Save! All Pilots Lv20

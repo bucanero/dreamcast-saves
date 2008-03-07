@@ -1,0 +1,2 @@
+gundadx1.VMI=Disc1 Clear Once!
+gundadx2.VMI=Disc2 Have All MS!

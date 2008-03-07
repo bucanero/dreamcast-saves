@@ -1,0 +1,2 @@
+asuka001.VMI=Weapon LV99!
+00000013.vmi=Cool Save!

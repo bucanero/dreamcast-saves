@@ -1,0 +1,4 @@
+ssf2x001.VMI=Power Bar Always MAX!
+SSF2X.VMI=Everything unlocked, including DIP Switch Menu!
+v70779.vmi=jogue com gouki no arcade mode sobre ryu pressione start+SR+SM+SF.pronto gouki ja esta selecionavel 
+pfighter.VMI=Perfect Save! All Secret Open!

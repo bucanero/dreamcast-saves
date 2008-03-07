@@ -1,0 +1,3 @@
+gscdx1.VMI=Good save for GameShark CDX with many codes loaded!
+GSHARK.VMI=Game Shark VMU icon.
+GSCDX.vmi=A lot of codes for GameShark CDX!

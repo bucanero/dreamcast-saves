@@ -1,0 +1,2 @@
+arcdx1.VMI=Action Replay CDX save with many codes loaded.
+AR423.VMI=This Action Replay CDX code save contains codes for 423 games (including orginal codes) for all regions.

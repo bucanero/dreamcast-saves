@@ -1,0 +1,2 @@
+macross.VMI=Perfect Save!
+m3office.VMI=offical downloaded save

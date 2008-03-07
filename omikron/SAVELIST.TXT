@@ -1,0 +1,11 @@
+v89140.vmi=The last save before the last boss, in your inventory you some health & several different weapons with you! 
+v66653.vmi=After kail and tarek fight 
+v62363.vmi=Infiltrate the secret tetra base and blow it up! 
+v16626.vmi=I have gotten almost to the end. you need to get the book of Noutu 
+v87970.vmi=Middle stage get out alive! 
+v36559.vmi=Tons of cash and tons of firepower,about one fifth of the way throughthe game (I think?) have fun. 
+v53926.vmi=This is a hard game to set up saves for, but if you want a severe "fast forward", then check this out.  You begin right before the final boss.  You have to figure a tricky puzzle right at the beginning, but after you get it...it's basically jus
+v79638.vmi=You start in the middle game. You have to resurrect the mommie. 
+v52791.vmi=To listen to five of the David Bowie tracks select the save in the first slot from the screen. They will be in your sneak. To start in the ventilation shaft where you fall into the Commandant's office select the second to last one from the save
+v12315.vmi=start of game. descent bank and firepower 
+OMIKRON.VMI=Multi save, half of game.

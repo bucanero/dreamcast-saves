@@ -1,0 +1,2 @@
+langriss.VMI=Personal Save.Low Level
+langris2.VMI=Personal Save.High Level
