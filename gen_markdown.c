@@ -46,13 +46,16 @@ void save_main(char* path, char* title)
 
     while ((read = getline(&line, &len, fp)) != -1) {
 		line[read-1] = 0;
+		line[read-2] = 0;
 		pos = strchr(line, '=');
 		*pos = 0;
 		
 		readFile(line, vmi);
+		char *tmp = strchr(vmi+88, 0x20);
+		if (tmp) *tmp = 0;
         fprintf(out, "| ![%s](../icons/%s.GIF) | `%s` | [%s](%s) ", title, vmi+88, vmi+88, line, line);
         *strrchr(line, '.') = 0;
-        fprintf(out, "| [%s.VMS](%s.VMS) | %s\n", line, line, ++pos);
+        fprintf(out, "| [%s.VMS](%s.VMS) | %s |\n", line, line, ++pos);
     }
 
     fclose(out);

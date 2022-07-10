@@ -23,7 +23,7 @@
 | ![Phantasy Star Online Version 2](../icons/PSO______GCD.GIF) | `PSO______GCD` | [v1944.vmi](v1944.vmi) | [v1944.VMS](v1944.VMS) | Vincent hired mercanary for pioneer2  |
 | ![Phantasy Star Online Version 2](../icons/PSO______099.GIF) | `PSO______099` | [v56139.vmi](v56139.vmi) | [v56139.VMS](v56139.VMS) | Character at level 99, full of weapons and mags however, do not go online with this file or else you will get band for using it.  |
 | ![Phantasy Star Online Version 2](../icons/PSO______GCD.GIF) | `PSO______GCD` | [v85560.vmi](v85560.vmi) | [v85560.VMS](v85560.VMS) | [Japanese] This save file is full of weapons, but do not go online with the file or you will get band for using it.  |
-| ![Phantasy Star Online Version 2](../icons/FCDCHEATS   .GIF) | `FCDCHEATS   ` | [FCDCHEAT.VMI](FCDCHEAT.VMI) | [FCDCHEAT.VMS](FCDCHEAT.VMS) | GameShark Code Save of PSO v2 |
+| ![Phantasy Star Online Version 2](../icons/FCDCHEATS.GIF) | `FCDCHEATS` | [FCDCHEAT.VMI](FCDCHEAT.VMI) | [FCDCHEAT.VMS](FCDCHEAT.VMS) | GameShark Code Save of PSO v2 |
 | ![Phantasy Star Online Version 2](../icons/PSO______004.GIF) | `PSO______004` | [psov2q1a.VMI](psov2q1a.VMI) | [psov2q1a.VMS](psov2q1a.VMS) | Good save for PSO v2! |
 | ![Phantasy Star Online Version 2](../icons/PSO______005.GIF) | `PSO______005` | [psov2q12.VMI](psov2q12.VMI) | [psov2q12.VMS](psov2q12.VMS) | Good save for PSO v2! |
 | ![Phantasy Star Online Version 2](../icons/PSO______GCD.GIF) | `PSO______GCD` | [v84436.vmi](v84436.vmi) | [v84436.VMS](v84436.VMS) | This is a Phantasy Star Online save. The game is beaten on normal and half way in hard with exeptional weapons and tons of cash!  |
