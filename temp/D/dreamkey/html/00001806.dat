@@ -1,0 +1,15 @@
+DREAMKEY.H00
+---------------------------------------------------------------------
+<html><embed type="application/x-dreamcast-lcdticker"
+       hidden="true"
+       name="lcd"
+       text="House Web Room    Autor Reconstruction - M I S H A . Программа разработана специально для Sega Dreamcast... "
+       loop="0"
+       scrolldelay="20"
+       scrollamount="1"
+       direction="left"
+       behavior="scroll"
+       font="20">
+<body><head><center><font color="white">Autor Reconstruction -  MишA </font></center>
+<title>House-WEB-Room</title>
+<SCRIPT type="text/javasc
