@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dream Passport 3"
+parent: SEGA Dreamcast Saves
+permalink: ./dp3/
+---
 # Dream Passport 3
 
 ## VMU Saves

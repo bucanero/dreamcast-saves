@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Power Stone 2"
+parent: SEGA Dreamcast Saves
+permalink: ./powerstone2/
+---
 # Power Stone 2
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Illbleed"
+parent: SEGA Dreamcast Saves
+permalink: ./illbleed/
+---
 # Illbleed
 
 ## VMU Saves

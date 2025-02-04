@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seventh Cross Evolution"
+parent: SEGA Dreamcast Saves
+permalink: ./seventhcrossevolution/
+---
 # Seventh Cross Evolution
 
 ## VMU Saves

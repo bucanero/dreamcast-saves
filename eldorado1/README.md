@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Eldorado Gate 1"
+parent: SEGA Dreamcast Saves
+permalink: ./eldorado1/
+---
 # Eldorado Gate 1
 
 ## VMU Saves

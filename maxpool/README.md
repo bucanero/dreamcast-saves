@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Maximum Pool"
+parent: SEGA Dreamcast Saves
+permalink: ./maxpool/
+---
 # Maximum Pool
 
 ## VMU Saves

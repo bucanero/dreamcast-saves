@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Confidential Mission"
+parent: SEGA Dreamcast Saves
+permalink: ./cmission/
+---
 # Confidential Mission
 
 ## VMU Saves

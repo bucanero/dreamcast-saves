@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Star Wars Episode 1: Jedi Power Battles"
+parent: SEGA Dreamcast Saves
+permalink: ./starwarsjedi/
+---
 # Star Wars Episode 1: Jedi Power Battles
 
 ## VMU Saves

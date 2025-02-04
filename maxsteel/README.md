@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Max Steel"
+parent: SEGA Dreamcast Saves
+permalink: ./maxsteel/
+---
 # Max Steel
 
 ## VMU Saves

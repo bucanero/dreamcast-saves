@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ms. Pac-Man Maze Madness"
+parent: SEGA Dreamcast Saves
+permalink: ./mspacman/
+---
 # Ms. Pac-Man Maze Madness
 
 ## VMU Saves

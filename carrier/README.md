@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Carrier"
+parent: SEGA Dreamcast Saves
+permalink: ./carrier/
+---
 # Carrier
 
 ## VMU Saves

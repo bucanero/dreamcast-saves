@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vanishing Point"
+parent: SEGA Dreamcast Saves
+permalink: ./vanishpoint/
+---
 # Vanishing Point
 
 ## VMU Saves

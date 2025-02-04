@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Giga Wing 2"
+parent: SEGA Dreamcast Saves
+permalink: ./gigawing2/
+---
 # Giga Wing 2
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nightmare Creatures 2"
+parent: SEGA Dreamcast Saves
+permalink: ./nightcreature2/
+---
 # Nightmare Creatures 2
 
 ## VMU Saves

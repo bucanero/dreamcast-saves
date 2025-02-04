@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Golf Shiyouyo"
+parent: SEGA Dreamcast Saves
+permalink: ./golfshiyo/
+---
 # Golf Shiyouyo
 
 ## VMU Saves

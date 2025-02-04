@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soul Calibur"
+parent: SEGA Dreamcast Saves
+permalink: ./soulcalibur/
+---
 # Soul Calibur
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Evangelion Ayanami Rei"
+parent: SEGA Dreamcast Saves
+permalink: ./evarei/
+---
 # Evangelion Ayanami Rei
 
 ## VMU Saves

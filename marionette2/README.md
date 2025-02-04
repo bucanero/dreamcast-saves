@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Marionette Handler 2"
+parent: SEGA Dreamcast Saves
+permalink: ./marionette2/
+---
 # Marionette Handler 2
 
 ## VMU Saves

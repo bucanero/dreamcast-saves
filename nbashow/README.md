@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NBA Showtime: NBA on NBC"
+parent: SEGA Dreamcast Saves
+permalink: ./nbashow/
+---
 # NBA Showtime: NBA on NBC
 
 ## VMU Saves

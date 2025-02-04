@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Street Fighter Alpha 3"
+parent: SEGA Dreamcast Saves
+permalink: ./streetfighter3/
+---
 # Street Fighter Alpha 3
 
 ## VMU Saves

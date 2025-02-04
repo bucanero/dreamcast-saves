@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fire Pro Wrestling D"
+parent: SEGA Dreamcast Saves
+permalink: ./fireprowd/
+---
 # Fire Pro Wrestling D
 
 ## VMU Saves

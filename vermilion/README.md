@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vermilion Desert"
+parent: SEGA Dreamcast Saves
+permalink: ./vermilion/
+---
 # Vermilion Desert
 
 ## VMU Saves

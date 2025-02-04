@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Iron Aces"
+parent: SEGA Dreamcast Saves
+permalink: ./ironaces/
+---
 # Iron Aces
 
 ## VMU Saves

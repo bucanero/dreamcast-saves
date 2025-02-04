@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dino Crisis"
+parent: SEGA Dreamcast Saves
+permalink: ./dinocrisis/
+---
 # Dino Crisis
 
 ## VMU Saves

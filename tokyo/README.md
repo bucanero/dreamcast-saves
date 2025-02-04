@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tokyo Xtreme Racer"
+parent: SEGA Dreamcast Saves
+permalink: ./tokyo/
+---
 # Tokyo Xtreme Racer
 
 ## VMU Saves

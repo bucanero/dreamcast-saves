@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Aero Wings 2: Air Strike"
+parent: SEGA Dreamcast Saves
+permalink: ./aerowings2/
+---
 # Aero Wings 2: Air Strike
 
 ## VMU Saves

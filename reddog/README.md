@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Red Dog: Superior Fire Power"
+parent: SEGA Dreamcast Saves
+permalink: ./reddog/
+---
 # Red Dog: Superior Fire Power
 
 ## VMU Saves

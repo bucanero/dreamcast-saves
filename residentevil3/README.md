@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Resident Evil 3: Nemesis"
+parent: SEGA Dreamcast Saves
+permalink: ./residentevil3/
+---
 # Resident Evil 3: Nemesis
 
 ## VMU Saves

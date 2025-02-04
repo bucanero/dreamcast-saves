@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4x4 Evolution"
+parent: SEGA Dreamcast Saves
+permalink: ./4x4evolution/
+---
 # 4x4 Evolution
 
 ## VMU Saves

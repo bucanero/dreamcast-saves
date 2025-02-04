@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ducati World Racing Challenge"
+parent: SEGA Dreamcast Saves
+permalink: ./ducati/
+---
 # Ducati World Racing Challenge
 
 ## VMU Saves

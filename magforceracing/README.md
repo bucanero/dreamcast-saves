@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MagForce Racing"
+parent: SEGA Dreamcast Saves
+permalink: ./magforceracing/
+---
 # MagForce Racing
 
 ## VMU Saves

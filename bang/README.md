@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bang! Gunship Elite"
+parent: SEGA Dreamcast Saves
+permalink: ./bang/
+---
 # Bang! Gunship Elite
 
 ## VMU Saves

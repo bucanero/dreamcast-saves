@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Striker Pro 2000"
+parent: SEGA Dreamcast Saves
+permalink: ./strikerpro2k/
+---
 # Striker Pro 2000
 
 ## VMU Saves

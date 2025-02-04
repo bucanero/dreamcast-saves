@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sonic Adventure"
+parent: SEGA Dreamcast Saves
+permalink: ./sonic/
+---
 # Sonic Adventure
 
 ## VMU Saves

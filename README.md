@@ -1,12 +1,13 @@
-# Dreamcast VMU Saves
+---
+layout: default
+title: SEGA Dreamcast Saves
+permalink: ./
+has_children: true
+has_toc: false
+---
+# Dreamcast Games
 
-## Misc
-
-- [VMU Converted Icons](icons/) (.gif)
 - [VMU Mini Games](minigames/)
-
-## Games
-
 - [102 Dalmatians: Puppies to the Rescue](puppies/)
 - [18 Wheeler: Pro American Trucker](18wheeler/)
 - [21 -Two One-](twoone/)

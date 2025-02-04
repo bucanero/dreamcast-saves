@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fire Emblem 776"
+parent: SEGA Dreamcast Saves
+permalink: ./fe776/
+---
 # Fire Emblem 776
 
 ## VMU Saves

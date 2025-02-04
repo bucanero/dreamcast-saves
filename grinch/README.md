@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Grinch"
+parent: SEGA Dreamcast Saves
+permalink: ./grinch/
+---
 # The Grinch
 
 ## VMU Saves

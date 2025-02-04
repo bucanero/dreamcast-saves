@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Urban Chaos"
+parent: SEGA Dreamcast Saves
+permalink: ./urbanchaos/
+---
 # Urban Chaos
 
 ## VMU Saves

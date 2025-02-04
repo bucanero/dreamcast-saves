@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Smash Pack Vol. 1"
+parent: SEGA Dreamcast Saves
+permalink: ./smashpack/
+---
 # Sega Smash Pack Vol. 1
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Rally Championship 2"
+parent: SEGA Dreamcast Saves
+permalink: ./segarally/
+---
 # Sega Rally Championship 2
 
 ## VMU Saves

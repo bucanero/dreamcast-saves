@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Floigan Brothers"
+parent: SEGA Dreamcast Saves
+permalink: ./floiganbros/
+---
 # Floigan Brothers
 
 ## VMU Saves

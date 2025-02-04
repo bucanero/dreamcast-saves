@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sakura Wars Columns"
+parent: SEGA Dreamcast Saves
+permalink: ./sakurapz/
+---
 # Sakura Wars Columns
 
 ## VMU Saves

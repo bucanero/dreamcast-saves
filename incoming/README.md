@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Incoming"
+parent: SEGA Dreamcast Saves
+permalink: ./incoming/
+---
 # Incoming
 
 ## VMU Saves

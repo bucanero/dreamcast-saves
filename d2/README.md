@@ -1,3 +1,9 @@
+---
+layout: default
+title: "D2"
+parent: SEGA Dreamcast Saves
+permalink: ./d2/
+---
 # D2
 
 ## VMU Saves

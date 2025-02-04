@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mars Matrix"
+parent: SEGA Dreamcast Saves
+permalink: ./marsmatrix/
+---
 # Mars Matrix
 
 ## VMU Saves

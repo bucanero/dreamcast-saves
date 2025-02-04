@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Zusar Vasar"
+parent: SEGA Dreamcast Saves
+permalink: ./zusarvasar/
+---
 # Zusar Vasar
 
 ## VMU Saves

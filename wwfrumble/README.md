@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WWF Royal Rumble"
+parent: SEGA Dreamcast Saves
+permalink: ./wwfrumble/
+---
 # WWF Royal Rumble
 
 ## VMU Saves

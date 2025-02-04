@@ -1,3 +1,9 @@
+---
+layout: default
+title: "House of the Dead 2"
+parent: SEGA Dreamcast Saves
+permalink: ./house_dead/
+---
 # House of the Dead 2
 
 ## VMU Saves

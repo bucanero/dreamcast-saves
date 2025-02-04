@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toy Commander"
+parent: SEGA Dreamcast Saves
+permalink: ./toycommander/
+---
 # Toy Commander
 
 ## VMU Saves

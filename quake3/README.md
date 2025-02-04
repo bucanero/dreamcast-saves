@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Quake 3 Arena"
+parent: SEGA Dreamcast Saves
+permalink: ./quake3/
+---
 # Quake 3 Arena
 
 ## VMU Saves

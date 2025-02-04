@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sno-Cross Championship Racing"
+parent: SEGA Dreamcast Saves
+permalink: ./snocross/
+---
 # Sno-Cross Championship Racing
 
 ## VMU Saves

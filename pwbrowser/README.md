@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Planetweb Dreamcast Browser 3.0"
+parent: SEGA Dreamcast Saves
+permalink: ./pwbrowser/
+---
 # Planetweb Dreamcast Browser 3.0
 
 ## VMU Saves

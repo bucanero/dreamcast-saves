@@ -1,3 +1,9 @@
+---
+layout: default
+title: "GameShark CDX"
+parent: SEGA Dreamcast Saves
+permalink: ./gscdx/
+---
 # GameShark CDX
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bust A Move 4"
+parent: SEGA Dreamcast Saves
+permalink: ./bustamove4/
+---
 # Bust A Move 4
 
 ## VMU Saves

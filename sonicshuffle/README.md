@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sonic Shuffle"
+parent: SEGA Dreamcast Saves
+permalink: ./sonicshuffle/
+---
 # Sonic Shuffle
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Code Breaker / Xploder DC"
+parent: SEGA Dreamcast Saves
+permalink: ./xploder/
+---
 # Code Breaker / Xploder DC
 
 ## VMU Saves

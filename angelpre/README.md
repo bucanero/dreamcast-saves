@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Angel Present"
+parent: SEGA Dreamcast Saves
+permalink: ./angelpre/
+---
 # Angel Present
 
 ## VMU Saves

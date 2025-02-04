@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Virgin On Megiddo"
+parent: SEGA Dreamcast Saves
+permalink: ./megiddo/
+---
 # The Virgin On Megiddo
 
 ## VMU Saves

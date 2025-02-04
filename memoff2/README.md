@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Memories Off 2nd"
+parent: SEGA Dreamcast Saves
+permalink: ./memoff2/
+---
 # Memories Off 2nd
 
 ## VMU Saves

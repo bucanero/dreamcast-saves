@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Espion Age Nts"
+parent: SEGA Dreamcast Saves
+permalink: ./espion/
+---
 # Espion Age Nts
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Grandia 2"
+parent: SEGA Dreamcast Saves
+permalink: ./grandia2/
+---
 # Grandia 2
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VMU Mini Games"
+parent: SEGA Dreamcast Saves
+permalink: ./minigames/
+---
 # VMU Mini Games
 
 ## VMU Saves

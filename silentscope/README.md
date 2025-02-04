@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Silent Scope"
+parent: SEGA Dreamcast Saves
+permalink: ./silentscope/
+---
 # Silent Scope
 
 ## VMU Saves

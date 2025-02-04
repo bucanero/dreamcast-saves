@@ -1,3 +1,9 @@
+---
+layout: default
+title: "18 Wheeler: Pro American Trucker"
+parent: SEGA Dreamcast Saves
+permalink: ./18wheeler/
+---
 # 18 Wheeler: Pro American Trucker
 
 ## VMU Saves

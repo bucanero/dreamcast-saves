@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Alone in the Dark: The New Nightmare"
+parent: SEGA Dreamcast Saves
+permalink: ./alonedark/
+---
 # Alone in the Dark: The New Nightmare
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Test Drive 6"
+parent: SEGA Dreamcast Saves
+permalink: ./testdrive6/
+---
 # Test Drive 6
 
 ## VMU Saves

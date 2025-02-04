@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chicken Run"
+parent: SEGA Dreamcast Saves
+permalink: ./chickenrun/
+---
 # Chicken Run
 
 ## VMU Saves

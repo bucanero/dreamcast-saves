@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Princess Maker Collection"
+parent: SEGA Dreamcast Saves
+permalink: ./princessmaker/
+---
 # Princess Maker Collection
 
 ## VMU Saves

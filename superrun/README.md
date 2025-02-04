@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Super Runabout SF Edition"
+parent: SEGA Dreamcast Saves
+permalink: ./superrun/
+---
 # Super Runabout SF Edition
 
 ## VMU Saves

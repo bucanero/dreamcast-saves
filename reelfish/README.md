@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Reel Fishing Wild"
+parent: SEGA Dreamcast Saves
+permalink: ./reelfish/
+---
 # Reel Fishing Wild
 
 ## VMU Saves

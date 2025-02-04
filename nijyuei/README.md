@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nijyuei"
+parent: SEGA Dreamcast Saves
+permalink: ./nijyuei/
+---
 # Nijyuei
 
 ## VMU Saves

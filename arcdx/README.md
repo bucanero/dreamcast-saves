@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Action Replay CDX"
+parent: SEGA Dreamcast Saves
+permalink: ./arcdx/
+---
 # Action Replay CDX
 
 ## VMU Saves

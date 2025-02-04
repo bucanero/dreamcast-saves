@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mr. Driller"
+parent: SEGA Dreamcast Saves
+permalink: ./driller/
+---
 # Mr. Driller
 
 ## VMU Saves

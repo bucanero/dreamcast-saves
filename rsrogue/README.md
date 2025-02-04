@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rainbow Six: Rogue Spear"
+parent: SEGA Dreamcast Saves
+permalink: ./rsrogue/
+---
 # Rainbow Six: Rogue Spear
 
 ## VMU Saves

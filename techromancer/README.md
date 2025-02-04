@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tech Romancer"
+parent: SEGA Dreamcast Saves
+permalink: ./techromancer/
+---
 # Tech Romancer
 
 ## VMU Saves

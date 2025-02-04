@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Frogger 2: Swampy's Revenge"
+parent: SEGA Dreamcast Saves
+permalink: ./frogger2/
+---
 # Frogger 2: Swampy's Revenge
 
 ## VMU Saves

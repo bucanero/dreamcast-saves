@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Redline Racer"
+parent: SEGA Dreamcast Saves
+permalink: ./redlineracer/
+---
 # Redline Racer
 
 ## VMU Saves

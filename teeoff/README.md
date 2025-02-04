@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tee-Off"
+parent: SEGA Dreamcast Saves
+permalink: ./teeoff/
+---
 # Tee-Off
 
 ## VMU Saves

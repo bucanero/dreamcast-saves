@@ -1,3 +1,9 @@
+---
+layout: default
+title: "D+Vine [LUV]"
+parent: SEGA Dreamcast Saves
+permalink: ./dvine/
+---
 # D+Vine [LUV]
 
 ## VMU Saves

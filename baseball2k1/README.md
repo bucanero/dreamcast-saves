@@ -1,3 +1,9 @@
+---
+layout: default
+title: "World Series Baseball 2K1"
+parent: SEGA Dreamcast Saves
+permalink: ./baseball2k1/
+---
 # World Series Baseball 2K1
 
 ## VMU Saves

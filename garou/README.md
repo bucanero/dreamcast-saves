@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Garou: Mark Of The Wolves"
+parent: SEGA Dreamcast Saves
+permalink: ./garou/
+---
 # Garou: Mark Of The Wolves
 
 ## VMU Saves

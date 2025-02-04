@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EGG: Elemental Gimmick Gear"
+parent: SEGA Dreamcast Saves
+permalink: ./egg/
+---
 # EGG: Elemental Gimmick Gear
 
 ## VMU Saves

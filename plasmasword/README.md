@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Plasma Sword"
+parent: SEGA Dreamcast Saves
+permalink: ./plasmasword/
+---
 # Plasma Sword
 
 ## VMU Saves

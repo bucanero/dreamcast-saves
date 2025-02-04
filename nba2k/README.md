@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Sports NBA 2K"
+parent: SEGA Dreamcast Saves
+permalink: ./nba2k/
+---
 # Sega Sports NBA 2K
 
 ## VMU Saves

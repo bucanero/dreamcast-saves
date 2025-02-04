@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gunbird 2"
+parent: SEGA Dreamcast Saves
+permalink: ./gunbird2/
+---
 # Gunbird 2
 
 ## VMU Saves

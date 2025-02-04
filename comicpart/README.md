@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Comic Party"
+parent: SEGA Dreamcast Saves
+permalink: ./comicpart/
+---
 # Comic Party
 
 ## VMU Saves

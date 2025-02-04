@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Street Fighter 3: Double Impact"
+parent: SEGA Dreamcast Saves
+permalink: ./streetfight3di/
+---
 # Street Fighter 3: Double Impact
 
 ## VMU Saves

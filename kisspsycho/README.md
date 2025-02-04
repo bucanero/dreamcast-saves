@@ -1,3 +1,9 @@
+---
+layout: default
+title: "KISS Psycho Circus: The Nightmare Child"
+parent: SEGA Dreamcast Saves
+permalink: ./kisspsycho/
+---
 # KISS Psycho Circus: The Nightmare Child
 
 ## VMU Saves

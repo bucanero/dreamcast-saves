@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Love Hina"
+parent: SEGA Dreamcast Saves
+permalink: ./lovehina/
+---
 # Love Hina
 
 ## VMU Saves

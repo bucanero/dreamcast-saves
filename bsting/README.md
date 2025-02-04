@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Blue Stinger"
+parent: SEGA Dreamcast Saves
+permalink: ./bsting/
+---
 # Blue Stinger
 
 ## VMU Saves

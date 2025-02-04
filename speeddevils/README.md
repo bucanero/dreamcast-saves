@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Speed Devils"
+parent: SEGA Dreamcast Saves
+permalink: ./speeddevils/
+---
 # Speed Devils
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Crazy Taxi"
+parent: SEGA Dreamcast Saves
+permalink: ./crazytaxi/
+---
 # Crazy Taxi
 
 ## VMU Saves

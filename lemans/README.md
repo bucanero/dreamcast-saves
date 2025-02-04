@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Test Drive Le Mans"
+parent: SEGA Dreamcast Saves
+permalink: ./lemans/
+---
 # Test Drive Le Mans
 
 ## VMU Saves

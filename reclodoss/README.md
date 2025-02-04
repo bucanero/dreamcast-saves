@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Record of Lodoss War"
+parent: SEGA Dreamcast Saves
+permalink: ./reclodoss/
+---
 # Record of Lodoss War
 
 ## VMU Saves

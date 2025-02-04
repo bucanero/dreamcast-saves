@@ -1,3 +1,9 @@
+---
+layout: default
+title: "South Park Rally"
+parent: SEGA Dreamcast Saves
+permalink: ./southparkrally/
+---
 # South Park Rally
 
 ## VMU Saves

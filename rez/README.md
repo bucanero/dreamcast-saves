@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rez"
+parent: SEGA Dreamcast Saves
+permalink: ./rez/
+---
 # Rez
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hidden and Dangerous"
+parent: SEGA Dreamcast Saves
+permalink: ./hiddendangerous/
+---
 # Hidden and Dangerous
 
 ## VMU Saves

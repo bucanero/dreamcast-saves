@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Death Crimson OX"
+parent: SEGA Dreamcast Saves
+permalink: ./deathcrim/
+---
 # Death Crimson OX
 
 ## VMU Saves

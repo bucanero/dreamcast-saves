@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Nadesico The Mission"
+parent: SEGA Dreamcast Saves
+permalink: ./nadesico/
+---
 # Nadesico The Mission
 
 ## VMU Saves

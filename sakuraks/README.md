@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sakura Wars Kayou Show"
+parent: SEGA Dreamcast Saves
+permalink: ./sakuraks/
+---
 # Sakura Wars Kayou Show
 
 ## VMU Saves

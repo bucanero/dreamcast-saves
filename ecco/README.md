@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ecco the Dolphin: Defender of the Future"
+parent: SEGA Dreamcast Saves
+permalink: ./ecco/
+---
 # Ecco the Dolphin: Defender of the Future
 
 ## VMU Saves

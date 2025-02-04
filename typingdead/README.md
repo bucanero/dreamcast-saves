@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Typing Of The Dead"
+parent: SEGA Dreamcast Saves
+permalink: ./typingdead/
+---
 # The Typing Of The Dead
 
 ## VMU Saves

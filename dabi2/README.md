@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dabitsuku 2"
+parent: SEGA Dreamcast Saves
+permalink: ./dabi2/
+---
 # Dabitsuku 2
 
 ## VMU Saves

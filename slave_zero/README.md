@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Slave Zero"
+parent: SEGA Dreamcast Saves
+permalink: ./slave_zero/
+---
 # Slave Zero
 
 ## VMU Saves

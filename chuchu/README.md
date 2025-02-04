@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chu Chu Rocket"
+parent: SEGA Dreamcast Saves
+permalink: ./chuchu/
+---
 # Chu Chu Rocket
 
 ## VMU Saves

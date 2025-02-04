@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wild Metal"
+parent: SEGA Dreamcast Saves
+permalink: ./wildmetal/
+---
 # Wild Metal
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Swirl"
+parent: SEGA Dreamcast Saves
+permalink: ./sega_swirl/
+---
 # Sega Swirl
 
 ## VMU Saves

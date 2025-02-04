@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Next Tetris: Net Edition"
+parent: SEGA Dreamcast Saves
+permalink: ./tetris/
+---
 # The Next Tetris: Net Edition
 
 ## VMU Saves

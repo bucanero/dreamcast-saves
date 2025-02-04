@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Aero Dancing Fan Disc"
+parent: SEGA Dreamcast Saves
+permalink: ./aeroif/
+---
 # Aero Dancing Fan Disc
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dave Mirra Freestyle BMX"
+parent: SEGA Dreamcast Saves
+permalink: ./davemirra/
+---
 # Dave Mirra Freestyle BMX
 
 ## VMU Saves

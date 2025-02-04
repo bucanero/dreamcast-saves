@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Army Men: Sarge's Heroes"
+parent: SEGA Dreamcast Saves
+permalink: ./armymen/
+---
 # Army Men: Sarge's Heroes
 
 ## VMU Saves

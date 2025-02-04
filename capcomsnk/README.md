@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Capcom vs SNK: Millennium Fight 2000"
+parent: SEGA Dreamcast Saves
+permalink: ./capcomsnk/
+---
 # Capcom vs SNK: Millennium Fight 2000
 
 ## VMU Saves

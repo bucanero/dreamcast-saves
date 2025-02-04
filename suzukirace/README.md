@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Suzuki Alstare Extreme Racing"
+parent: SEGA Dreamcast Saves
+permalink: ./suzukirace/
+---
 # Suzuki Alstare Extreme Racing
 
 ## VMU Saves

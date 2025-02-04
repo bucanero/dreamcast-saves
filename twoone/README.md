@@ -1,3 +1,9 @@
+---
+layout: default
+title: "21 -Two One-"
+parent: SEGA Dreamcast Saves
+permalink: ./twoone/
+---
 # 21 -Two One-
 
 ## VMU Saves

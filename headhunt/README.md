@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Head Hunter"
+parent: SEGA Dreamcast Saves
+permalink: ./headhunt/
+---
 # Head Hunter
 
 ## VMU Saves

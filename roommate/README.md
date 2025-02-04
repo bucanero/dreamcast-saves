@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Roommate Novel"
+parent: SEGA Dreamcast Saves
+permalink: ./roommate/
+---
 # Roommate Novel
 
 ## VMU Saves

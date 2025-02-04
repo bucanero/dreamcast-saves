@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Trickstyle"
+parent: SEGA Dreamcast Saves
+permalink: ./trickstyle/
+---
 # Trickstyle
 
 ## VMU Saves

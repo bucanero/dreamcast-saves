@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Macross M3"
+parent: SEGA Dreamcast Saves
+permalink: ./macross/
+---
 # Macross M3
 
 ## VMU Saves

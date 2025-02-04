@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jeremy McGrath Supercross 2000"
+parent: SEGA Dreamcast Saves
+permalink: ./jeremymcgrath/
+---
 # Jeremy McGrath Supercross 2000
 
 ## VMU Saves

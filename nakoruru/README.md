@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NaKoRuRu"
+parent: SEGA Dreamcast Saves
+permalink: ./nakoruru/
+---
 # NaKoRuRu
 
 ## VMU Saves

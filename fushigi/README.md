@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fushigi Dungeon"
+parent: SEGA Dreamcast Saves
+permalink: ./fushigi/
+---
 # Fushigi Dungeon
 
 ## VMU Saves

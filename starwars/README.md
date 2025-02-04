@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Star Wars Episode 1: Racer"
+parent: SEGA Dreamcast Saves
+permalink: ./starwars/
+---
 # Star Wars Episode 1: Racer
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Super Hero Retsuden"
+parent: SEGA Dreamcast Saves
+permalink: ./heroretsuden/
+---
 # Super Hero Retsuden
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Grand Theft Auto 2"
+parent: SEGA Dreamcast Saves
+permalink: ./gta2/
+---
 # Grand Theft Auto 2
 
 ## VMU Saves

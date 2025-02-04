@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Super Street Fighter 2X"
+parent: SEGA Dreamcast Saves
+permalink: ./ssf2x/
+---
 # Super Street Fighter 2X
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Resident Evil 2"
+parent: SEGA Dreamcast Saves
+permalink: ./residentevil2/
+---
 # Resident Evil 2
 
 ## VMU Saves

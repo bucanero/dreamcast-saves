@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Air Force Delta"
+parent: SEGA Dreamcast Saves
+permalink: ./airforcedelta/
+---
 # Air Force Delta
 
 ## VMU Saves

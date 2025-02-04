@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rainbow Six"
+parent: SEGA Dreamcast Saves
+permalink: ./rainbowsix/
+---
 # Rainbow Six
 
 ## VMU Saves

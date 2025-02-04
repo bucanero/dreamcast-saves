@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Virtua Athlete 2K"
+parent: SEGA Dreamcast Saves
+permalink: ./virtuaathlete/
+---
 # Virtua Athlete 2K
 
 ## VMU Saves

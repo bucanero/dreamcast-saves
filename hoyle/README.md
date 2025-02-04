@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hoyle Casino"
+parent: SEGA Dreamcast Saves
+permalink: ./hoyle/
+---
 # Hoyle Casino
 
 ## VMU Saves

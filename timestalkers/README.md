@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Time Stalkers"
+parent: SEGA Dreamcast Saves
+permalink: ./timestalkers/
+---
 # Time Stalkers
 
 ## VMU Saves

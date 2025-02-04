@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Boku Doraemon"
+parent: SEGA Dreamcast Saves
+permalink: ./doraemon/
+---
 # Boku Doraemon
 
 ## VMU Saves

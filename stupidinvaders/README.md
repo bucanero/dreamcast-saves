@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Stupid Invaders"
+parent: SEGA Dreamcast Saves
+permalink: ./stupidinvaders/
+---
 # Stupid Invaders
 
 ## VMU Saves

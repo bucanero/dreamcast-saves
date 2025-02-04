@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Street Fighter 3rd Strike"
+parent: SEGA Dreamcast Saves
+permalink: ./streetfight3rd/
+---
 # Street Fighter 3rd Strike
 
 ## VMU Saves

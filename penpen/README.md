@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pen Pen Trilcelon"
+parent: SEGA Dreamcast Saves
+permalink: ./penpen/
+---
 # Pen Pen Trilcelon
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Outtrigger"
+parent: SEGA Dreamcast Saves
+permalink: ./outtrigger/
+---
 # Outtrigger
 
 ## VMU Saves

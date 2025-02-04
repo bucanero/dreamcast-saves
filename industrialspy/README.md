@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Industrial Spy: Operation Espionage"
+parent: SEGA Dreamcast Saves
+permalink: ./industrialspy/
+---
 # Industrial Spy: Operation Espionage
 
 ## VMU Saves

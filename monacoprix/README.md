@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Monaco Grand Prix"
+parent: SEGA Dreamcast Saves
+permalink: ./monacoprix/
+---
 # Monaco Grand Prix
 
 ## VMU Saves

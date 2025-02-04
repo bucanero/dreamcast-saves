@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Worms World Party"
+parent: SEGA Dreamcast Saves
+permalink: ./wormparty/
+---
 # Worms World Party
 
 ## VMU Saves

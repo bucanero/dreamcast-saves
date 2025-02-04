@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shenmue II"
+parent: SEGA Dreamcast Saves
+permalink: ./shenmue2/
+---
 # Shenmue II
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sports Jam"
+parent: SEGA Dreamcast Saves
+permalink: ./sportsjam/
+---
 # Sports Jam
 
 ## VMU Saves

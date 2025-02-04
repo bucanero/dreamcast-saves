@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TNN Motorsports Hardcore Heat"
+parent: SEGA Dreamcast Saves
+permalink: ./hardcore/
+---
 # TNN Motorsports Hardcore Heat
 
 ## VMU Saves

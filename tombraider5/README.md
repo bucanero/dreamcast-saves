@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tomb Raider: Chronicles"
+parent: SEGA Dreamcast Saves
+permalink: ./tombraider5/
+---
 # Tomb Raider: Chronicles
 
 ## VMU Saves

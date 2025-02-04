@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soldier of Fortune"
+parent: SEGA Dreamcast Saves
+permalink: ./soldierfortune/
+---
 # Soldier of Fortune
 
 ## VMU Saves

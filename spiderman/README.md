@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spiderman"
+parent: SEGA Dreamcast Saves
+permalink: ./spiderman/
+---
 # Spiderman
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Virtua Cop 2"
+parent: SEGA Dreamcast Saves
+permalink: ./virtuacop2/
+---
 # Virtua Cop 2
 
 ## VMU Saves

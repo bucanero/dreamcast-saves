@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Flag To Flag"
+parent: SEGA Dreamcast Saves
+permalink: ./flag2flag/
+---
 # Flag To Flag
 
 ## VMU Saves

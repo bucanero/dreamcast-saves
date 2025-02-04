@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Sports NHL 2K"
+parent: SEGA Dreamcast Saves
+permalink: ./nhl2k/
+---
 # Sega Sports NHL 2K
 
 ## VMU Saves

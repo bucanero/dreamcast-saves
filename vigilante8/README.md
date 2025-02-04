@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Vigilante 8: 2nd Offense"
+parent: SEGA Dreamcast Saves
+permalink: ./vigilante8/
+---
 # Vigilante 8: 2nd Offense
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Sports Tennis 2K2"
+parent: SEGA Dreamcast Saves
+permalink: ./virtuatennis2/
+---
 # Sega Sports Tennis 2K2
 
 ## VMU Saves

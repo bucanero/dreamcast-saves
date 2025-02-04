@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Bass Fishing"
+parent: SEGA Dreamcast Saves
+permalink: ./bassfish/
+---
 # Sega Bass Fishing
 
 ## VMU Saves

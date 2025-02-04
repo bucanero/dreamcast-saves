@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Soul Fighter"
+parent: SEGA Dreamcast Saves
+permalink: ./soulfighter/
+---
 # Soul Fighter
 
 ## VMU Saves

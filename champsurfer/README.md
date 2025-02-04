@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Championship Surfer"
+parent: SEGA Dreamcast Saves
+permalink: ./champsurfer/
+---
 # Championship Surfer
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dance Dance Revolution Club Mix"
+parent: SEGA Dreamcast Saves
+permalink: ./ddrclubmix/
+---
 # Dance Dance Revolution Club Mix
 
 ## VMU Saves

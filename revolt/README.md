@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Re-Volt"
+parent: SEGA Dreamcast Saves
+permalink: ./revolt/
+---
 # Re-Volt
 
 ## VMU Saves

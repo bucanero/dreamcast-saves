@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Marvel vs Capcom 2"
+parent: SEGA Dreamcast Saves
+permalink: ./marvelcapcom2/
+---
 # Marvel vs Capcom 2
 
 ## VMU Saves

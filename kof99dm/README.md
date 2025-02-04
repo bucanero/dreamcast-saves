@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The King Of Fighters: Dream Match '99"
+parent: SEGA Dreamcast Saves
+permalink: ./kof99dm/
+---
 # The King Of Fighters: Dream Match '99
 
 ## VMU Saves

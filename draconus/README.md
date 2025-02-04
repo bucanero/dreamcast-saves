@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Draconus: Cult of the Wyrm"
+parent: SEGA Dreamcast Saves
+permalink: ./draconus/
+---
 # Draconus: Cult of the Wyrm
 
 ## VMU Saves

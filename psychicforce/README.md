@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Psychic Force 2012"
+parent: SEGA Dreamcast Saves
+permalink: ./psychicforce/
+---
 # Psychic Force 2012
 
 ## VMU Saves

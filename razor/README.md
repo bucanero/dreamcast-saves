@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Razor Freestyle Scooter"
+parent: SEGA Dreamcast Saves
+permalink: ./razor/
+---
 # Razor Freestyle Scooter
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Legacy of Kain: Soul Reaver"
+parent: SEGA Dreamcast Saves
+permalink: ./legacykain/
+---
 # Legacy of Kain: Soul Reaver
 
 ## VMU Saves

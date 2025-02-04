@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rainbow Cotton"
+parent: SEGA Dreamcast Saves
+permalink: ./rainbowcotton/
+---
 # Rainbow Cotton
 
 ## VMU Saves

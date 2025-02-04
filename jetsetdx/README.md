@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jet Set Radio DX"
+parent: SEGA Dreamcast Saves
+permalink: ./jetsetdx/
+---
 # Jet Set Radio DX
 
 ## VMU Saves

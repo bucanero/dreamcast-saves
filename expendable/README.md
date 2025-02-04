@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Expendable"
+parent: SEGA Dreamcast Saves
+permalink: ./expendable/
+---
 # Expendable
 
 ## VMU Saves

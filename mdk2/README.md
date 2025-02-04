@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MDK 2"
+parent: SEGA Dreamcast Saves
+permalink: ./mdk2/
+---
 # MDK 2
 
 ## VMU Saves
