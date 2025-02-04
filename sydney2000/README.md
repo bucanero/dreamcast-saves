@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sydney 2000"
+parent: SEGA Dreamcast Saves
+permalink: ./sydney2000/
+---
 # Sydney 2000
 
 ## VMU Saves

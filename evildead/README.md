@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Evil Dead: Hail to the King"
+parent: SEGA Dreamcast Saves
+permalink: ./evildead/
+---
 # Evil Dead: Hail to the King
 
 ## VMU Saves

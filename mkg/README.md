@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mortal Kombat Gold"
+parent: SEGA Dreamcast Saves
+permalink: ./mkg/
+---
 # Mortal Kombat Gold
 
 ## VMU Saves

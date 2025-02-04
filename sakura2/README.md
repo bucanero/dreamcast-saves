@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sakura Wars 2"
+parent: SEGA Dreamcast Saves
+permalink: ./sakura2/
+---
 # Sakura Wars 2
 
 ## VMU Saves

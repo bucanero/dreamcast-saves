@@ -1,3 +1,9 @@
+---
+layout: default
+title: "WWF Attitude"
+parent: SEGA Dreamcast Saves
+permalink: ./wwfattitude/
+---
 # WWF Attitude
 
 ## VMU Saves

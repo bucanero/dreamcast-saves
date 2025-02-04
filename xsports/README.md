@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Xtreme Sports"
+parent: SEGA Dreamcast Saves
+permalink: ./xsports/
+---
 # Xtreme Sports
 
 ## VMU Saves

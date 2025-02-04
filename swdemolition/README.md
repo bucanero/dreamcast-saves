@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Star Wars Demolition"
+parent: SEGA Dreamcast Saves
+permalink: ./swdemolition/
+---
 # Star Wars Demolition
 
 ## VMU Saves

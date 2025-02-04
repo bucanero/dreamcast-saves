@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tokyo Bus Guide"
+parent: SEGA Dreamcast Saves
+permalink: ./tokyobus/
+---
 # Tokyo Bus Guide
 
 ## VMU Saves

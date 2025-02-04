@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hydro Thunder"
+parent: SEGA Dreamcast Saves
+permalink: ./hydrothunder/
+---
 # Hydro Thunder
 
 ## VMU Saves

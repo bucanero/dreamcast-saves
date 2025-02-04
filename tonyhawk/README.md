@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tony Hawk's Pro Skater"
+parent: SEGA Dreamcast Saves
+permalink: ./tonyhawk/
+---
 # Tony Hawk's Pro Skater
 
 ## VMU Saves

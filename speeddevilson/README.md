@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Speed Devils Online Racing"
+parent: SEGA Dreamcast Saves
+permalink: ./speeddevilson/
+---
 # Speed Devils Online Racing
 
 ## VMU Saves

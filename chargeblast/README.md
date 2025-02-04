@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Charge 'N Blast"
+parent: SEGA Dreamcast Saves
+permalink: ./chargeblast/
+---
 # Charge 'N Blast
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Railroad Tycoon 2"
+parent: SEGA Dreamcast Saves
+permalink: ./railroadtycoon2/
+---
 # Railroad Tycoon 2
 
 ## VMU Saves

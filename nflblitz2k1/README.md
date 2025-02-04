@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NFL Blitz 2001"
+parent: SEGA Dreamcast Saves
+permalink: ./nflblitz2k1/
+---
 # NFL Blitz 2001
 
 ## VMU Saves

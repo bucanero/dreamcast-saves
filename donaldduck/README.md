@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Donald Duck: Goin' Quackers"
+parent: SEGA Dreamcast Saves
+permalink: ./donaldduck/
+---
 # Donald Duck: Goin' Quackers
 
 ## VMU Saves

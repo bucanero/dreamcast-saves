@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Super Magnetic Neo"
+parent: SEGA Dreamcast Saves
+permalink: ./supermagicneo/
+---
 # Super Magnetic Neo
 
 ## VMU Saves

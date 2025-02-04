@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SeGaGaGa"
+parent: SEGA Dreamcast Saves
+permalink: ./segagaga/
+---
 # SeGaGaGa
 
 ## VMU Saves

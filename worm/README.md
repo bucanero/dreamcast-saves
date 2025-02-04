@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Worms Armageddon"
+parent: SEGA Dreamcast Saves
+permalink: ./worm/
+---
 # Worms Armageddon
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Ring: Terror's Realm"
+parent: SEGA Dreamcast Saves
+permalink: ./thering/
+---
 # The Ring: Terror's Realm
 
 ## VMU Saves

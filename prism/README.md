@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Prism Heart"
+parent: SEGA Dreamcast Saves
+permalink: ./prism/
+---
 # Prism Heart
 
 ## VMU Saves

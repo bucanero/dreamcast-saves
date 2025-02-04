@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hundred Swords"
+parent: SEGA Dreamcast Saves
+permalink: ./hswords/
+---
 # Hundred Swords
 
 ## VMU Saves

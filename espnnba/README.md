@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ESPN NBA 2 Night"
+parent: SEGA Dreamcast Saves
+permalink: ./espnnba/
+---
 # ESPN NBA 2 Night
 
 ## VMU Saves

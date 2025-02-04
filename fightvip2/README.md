@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fighting Vipers 2"
+parent: SEGA Dreamcast Saves
+permalink: ./fightvip2/
+---
 # Fighting Vipers 2
 
 ## VMU Saves

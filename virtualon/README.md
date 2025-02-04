@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Virtual On: Oratorio Tangram"
+parent: SEGA Dreamcast Saves
+permalink: ./virtualon/
+---
 # Virtual On: Oratorio Tangram
 
 ## VMU Saves

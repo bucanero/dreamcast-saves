@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Atari Anniversary Edition"
+parent: SEGA Dreamcast Saves
+permalink: ./atari/
+---
 # Atari Anniversary Edition
 
 ## VMU Saves

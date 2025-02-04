@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mizuiro"
+parent: SEGA Dreamcast Saves
+permalink: ./mizuiro/
+---
 # Mizuiro
 
 ## VMU Saves

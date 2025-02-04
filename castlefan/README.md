@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Castle Fantasia"
+parent: SEGA Dreamcast Saves
+permalink: ./castlefan/
+---
 # Castle Fantasia
 
 ## VMU Saves

@@ -3,6 +3,9 @@
 #include <string.h>
 #include <unistd.h>
 
+#define SAVE_TYPE   "SEGA Dreamcast"
+#define SAVE_FOLDER "."
+
 char * readFile(const char * path, char* string)
 {
 	FILE *f = fopen(path, "rb");
@@ -42,6 +45,7 @@ void save_main(char* path, char* title)
 
     out = fopen("README.md", "w");
 
+    fprintf(out, "---\nlayout: default\ntitle: \"%s\"\nparent: " SAVE_TYPE " Saves\npermalink: " SAVE_FOLDER "/%s/\n---\n", title, path);
     fprintf(out, "# %s\n\n## VMU Saves\n\n| Icon | Filename | VMI | VMS | Description |\n|------|----------|-----|-----|-------------|\n", title);
 
     while ((read = getline(&line, &len, fp)) != -1) {
@@ -77,6 +81,9 @@ int main(int argc, char** argv)
     fp = fopen("GAMELIST.TXT", "r");
     if (fp == NULL)
         exit(EXIT_FAILURE);
+
+    printf("---\nlayout: default\ntitle: " SAVE_TYPE " Saves\npermalink: " SAVE_FOLDER "/\nhas_children: true\nhas_toc: false\n---\n");
+    printf("# Dreamcast Games\n\n");
 
     while ((read = getline(&line, &len, fp)) != -1) {
 		line[read-1] = 0;

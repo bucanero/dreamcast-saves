@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sword of the Berserk: Guts' Rage"
+parent: SEGA Dreamcast Saves
+permalink: ./sword_berserk/
+---
 # Sword of the Berserk: Guts' Rage
 
 ## VMU Saves

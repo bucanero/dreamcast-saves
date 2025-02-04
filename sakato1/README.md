@@ -1,3 +1,9 @@
+---
+layout: default
+title: "SaKaToKu 1"
+parent: SEGA Dreamcast Saves
+permalink: ./sakato1/
+---
 # SaKaToKu 1
 
 ## VMU Saves

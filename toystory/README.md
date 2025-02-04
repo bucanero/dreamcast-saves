@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Toy Story 2"
+parent: SEGA Dreamcast Saves
+permalink: ./toystory/
+---
 # Toy Story 2
 
 ## VMU Saves

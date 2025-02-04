@@ -1,3 +1,9 @@
+---
+layout: default
+title: "F355 Challenge"
+parent: SEGA Dreamcast Saves
+permalink: ./f355challenge/
+---
 # F355 Challenge
 
 ## VMU Saves

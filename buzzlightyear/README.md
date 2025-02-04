@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Buzz Lightyear of Star Command"
+parent: SEGA Dreamcast Saves
+permalink: ./buzzlightyear/
+---
 # Buzz Lightyear of Star Command
 
 ## VMU Saves

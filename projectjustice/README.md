@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Project Justice"
+parent: SEGA Dreamcast Saves
+permalink: ./projectjustice/
+---
 # Project Justice
 
 ## VMU Saves

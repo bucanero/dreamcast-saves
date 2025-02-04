@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Blue Submarine No. 6"
+parent: SEGA Dreamcast Saves
+permalink: ./bluesub6/
+---
 # Blue Submarine No. 6
 
 ## VMU Saves

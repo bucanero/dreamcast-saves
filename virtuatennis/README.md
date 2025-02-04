@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Virtua Tennis"
+parent: SEGA Dreamcast Saves
+permalink: ./virtuatennis/
+---
 # Virtua Tennis
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Magic The Gathering"
+parent: SEGA Dreamcast Saves
+permalink: ./magic/
+---
 # Magic The Gathering
 
 ## VMU Saves

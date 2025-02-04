@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Heavy Metal: Geomatrix"
+parent: SEGA Dreamcast Saves
+permalink: ./heavymetal/
+---
 # Heavy Metal: Geomatrix
 
 ## VMU Saves

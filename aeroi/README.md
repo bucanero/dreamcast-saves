@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Aero Dancing"
+parent: SEGA Dreamcast Saves
+permalink: ./aeroi/
+---
 # Aero Dancing
 
 ## VMU Saves

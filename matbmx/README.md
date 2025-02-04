@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mat Hoffman's Pro BMX"
+parent: SEGA Dreamcast Saves
+permalink: ./matbmx/
+---
 # Mat Hoffman's Pro BMX
 
 ## VMU Saves

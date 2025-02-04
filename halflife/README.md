@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Half-Life"
+parent: SEGA Dreamcast Saves
+permalink: ./halflife/
+---
 # Half-Life
 
 ## VMU Saves

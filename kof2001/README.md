@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The King Of Fighters 2001"
+parent: SEGA Dreamcast Saves
+permalink: ./kof2001/
+---
 # The King Of Fighters 2001
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Evangelion Project E"
+parent: SEGA Dreamcast Saves
+permalink: ./evaproe/
+---
 # Evangelion Project E
 
 ## VMU Saves

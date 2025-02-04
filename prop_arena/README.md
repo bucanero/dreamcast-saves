@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Propeller Arena"
+parent: SEGA Dreamcast Saves
+permalink: ./prop_arena/
+---
 # Propeller Arena
 
 ## VMU Saves

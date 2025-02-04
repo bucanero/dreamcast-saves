@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Last Blade 2"
+parent: SEGA Dreamcast Saves
+permalink: ./lastblade2/
+---
 # Last Blade 2
 
 ## VMU Saves

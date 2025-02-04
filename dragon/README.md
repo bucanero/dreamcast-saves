@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dragon Riders: Chronicles of Pern"
+parent: SEGA Dreamcast Saves
+permalink: ./dragon/
+---
 # Dragon Riders: Chronicles of Pern
 
 ## VMU Saves

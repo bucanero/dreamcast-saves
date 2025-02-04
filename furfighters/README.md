@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fur Fighters"
+parent: SEGA Dreamcast Saves
+permalink: ./furfighters/
+---
 # Fur Fighters
 
 ## VMU Saves

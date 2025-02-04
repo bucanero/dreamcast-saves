@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Langrisser Millennium"
+parent: SEGA Dreamcast Saves
+permalink: ./langrisser/
+---
 # Langrisser Millennium
 
 ## VMU Saves

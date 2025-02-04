@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Milky Season"
+parent: SEGA Dreamcast Saves
+permalink: ./milky/
+---
 # Milky Season
 
 ## VMU Saves

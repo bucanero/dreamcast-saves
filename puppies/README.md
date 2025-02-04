@@ -1,3 +1,9 @@
+---
+layout: default
+title: "102 Dalmatians: Puppies to the Rescue"
+parent: SEGA Dreamcast Saves
+permalink: ./puppies/
+---
 # 102 Dalmatians: Puppies to the Rescue
 
 ## VMU Saves

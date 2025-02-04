@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rippin' Riders"
+parent: SEGA Dreamcast Saves
+permalink: ./rippinriders/
+---
 # Rippin' Riders
 
 ## VMU Saves

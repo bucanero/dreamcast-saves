@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Super Robot Wars Alpha"
+parent: SEGA Dreamcast Saves
+permalink: ./srw/
+---
 # Super Robot Wars Alpha
 
 ## VMU Saves

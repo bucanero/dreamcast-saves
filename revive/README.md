@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Revive"
+parent: SEGA Dreamcast Saves
+permalink: ./revive/
+---
 # Revive
 
 ## VMU Saves

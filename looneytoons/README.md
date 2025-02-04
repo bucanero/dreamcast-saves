@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Looney Toons Space Race"
+parent: SEGA Dreamcast Saves
+permalink: ./looneytoons/
+---
 # Looney Toons Space Race
 
 ## VMU Saves

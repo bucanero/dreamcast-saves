@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ultimate Fighting Championship"
+parent: SEGA Dreamcast Saves
+permalink: ./ufc/
+---
 # Ultimate Fighting Championship
 
 ## VMU Saves

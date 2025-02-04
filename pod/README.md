@@ -1,3 +1,9 @@
+---
+layout: default
+title: "POD: Speedzone"
+parent: SEGA Dreamcast Saves
+permalink: ./pod/
+---
 # POD: Speedzone
 
 ## VMU Saves

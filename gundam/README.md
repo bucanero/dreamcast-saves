@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gundam Side Story 0079"
+parent: SEGA Dreamcast Saves
+permalink: ./gundam/
+---
 # Gundam Side Story 0079
 
 ## VMU Saves

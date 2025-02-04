@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kanon"
+parent: SEGA Dreamcast Saves
+permalink: ./kanon/
+---
 # Kanon
 
 ## VMU Saves

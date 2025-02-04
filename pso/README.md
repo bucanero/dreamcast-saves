@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Phantasy Star Online"
+parent: SEGA Dreamcast Saves
+permalink: ./pso/
+---
 # Phantasy Star Online
 
 ## VMU Saves

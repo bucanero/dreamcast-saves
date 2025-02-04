@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Black Matrix Advanced"
+parent: SEGA Dreamcast Saves
+permalink: ./blackmatrix/
+---
 # Black Matrix Advanced
 
 ## VMU Saves

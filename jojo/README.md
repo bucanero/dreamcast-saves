@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jojo's Bizarre Adventure"
+parent: SEGA Dreamcast Saves
+permalink: ./jojo/
+---
 # Jojo's Bizarre Adventure
 
 ## VMU Saves

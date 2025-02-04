@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gundam: Renpou Vs Zeon"
+parent: SEGA Dreamcast Saves
+permalink: ./gundamrvz/
+---
 # Gundam: Renpou Vs Zeon
 
 ## VMU Saves

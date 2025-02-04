@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sunrise Eiyuutan"
+parent: SEGA Dreamcast Saves
+permalink: ./sunrise_eiyu/
+---
 # Sunrise Eiyuutan
 
 ## VMU Saves

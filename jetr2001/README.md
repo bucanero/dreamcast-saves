@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Power Jet Racing 2001"
+parent: SEGA Dreamcast Saves
+permalink: ./jetr2001/
+---
 # Power Jet Racing 2001
 
 ## VMU Saves

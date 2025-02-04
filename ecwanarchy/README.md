@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ECW: Anarchy Rulz"
+parent: SEGA Dreamcast Saves
+permalink: ./ecwanarchy/
+---
 # ECW: Anarchy Rulz
 
 ## VMU Saves

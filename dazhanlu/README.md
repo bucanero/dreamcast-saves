@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Advanced Daisenryaku"
+parent: SEGA Dreamcast Saves
+permalink: ./dazhanlu/
+---
 # Advanced Daisenryaku
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Frame Gride"
+parent: SEGA Dreamcast Saves
+permalink: ./framegride/
+---
 # Frame Gride
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Seirei Hata Ray Blade"
+parent: SEGA Dreamcast Saves
+permalink: ./seirei/
+---
 # Seirei Hata Ray Blade
 
 ## VMU Saves

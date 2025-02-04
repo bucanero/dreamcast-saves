@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Capcom Vs SNK 2"
+parent: SEGA Dreamcast Saves
+permalink: ./capcomsnk2/
+---
 # Capcom Vs SNK 2
 
 ## VMU Saves

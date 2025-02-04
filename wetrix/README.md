@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wetrix+"
+parent: SEGA Dreamcast Saves
+permalink: ./wetrix/
+---
 # Wetrix+
 
 ## VMU Saves

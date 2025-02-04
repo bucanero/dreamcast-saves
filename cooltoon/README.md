@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Cool Cool Toon"
+parent: SEGA Dreamcast Saves
+permalink: ./cooltoon/
+---
 # Cool Cool Toon
 
 ## VMU Saves

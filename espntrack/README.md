@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ESPN International Track and Field"
+parent: SEGA Dreamcast Saves
+permalink: ./espntrack/
+---
 # ESPN International Track and Field
 
 ## VMU Saves

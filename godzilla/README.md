@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Godzilla Generations"
+parent: SEGA Dreamcast Saves
+permalink: ./godzilla/
+---
 # Godzilla Generations
 
 ## VMU Saves

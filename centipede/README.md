@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Centipede"
+parent: SEGA Dreamcast Saves
+permalink: ./centipede/
+---
 # Centipede
 
 ## VMU Saves

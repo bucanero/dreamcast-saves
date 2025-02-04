@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Zero Gunner 2"
+parent: SEGA Dreamcast Saves
+permalink: ./zerogun2/
+---
 # Zero Gunner 2
 
 ## VMU Saves

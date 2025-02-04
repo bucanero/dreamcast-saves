@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bomberman Online"
+parent: SEGA Dreamcast Saves
+permalink: ./bomberman/
+---
 # Bomberman Online
 
 ## VMU Saves

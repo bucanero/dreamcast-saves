@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dinosaur"
+parent: SEGA Dreamcast Saves
+permalink: ./dinosaur/
+---
 # Dinosaur
 
 ## VMU Saves

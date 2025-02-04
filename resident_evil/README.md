@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Resident Evil: Code Veronica"
+parent: SEGA Dreamcast Saves
+permalink: ./resident_evil/
+---
 # Resident Evil: Code Veronica
 
 ## VMU Saves

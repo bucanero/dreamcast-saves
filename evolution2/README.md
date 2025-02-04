@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Evolution 2: A Far Off Promise"
+parent: SEGA Dreamcast Saves
+permalink: ./evolution2/
+---
 # Evolution 2: A Far Off Promise
 
 ## VMU Saves

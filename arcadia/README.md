@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Skies of Arcadia"
+parent: SEGA Dreamcast Saves
+permalink: ./arcadia/
+---
 # Skies of Arcadia
 
 ## VMU Saves

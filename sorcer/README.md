@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sorcerian"
+parent: SEGA Dreamcast Saves
+permalink: ./sorcer/
+---
 # Sorcerian
 
 ## VMU Saves

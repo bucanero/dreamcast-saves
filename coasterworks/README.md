@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Coaster Works"
+parent: SEGA Dreamcast Saves
+permalink: ./coasterworks/
+---
 # Coaster Works
 
 ## VMU Saves

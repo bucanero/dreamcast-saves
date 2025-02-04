@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tantei Shinshi Dash"
+parent: SEGA Dreamcast Saves
+permalink: ./tanteidash/
+---
 # Tantei Shinshi Dash
 
 ## VMU Saves

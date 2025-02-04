@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ooga Booga"
+parent: SEGA Dreamcast Saves
+permalink: ./ooga/
+---
 # Ooga Booga
 
 ## VMU Saves

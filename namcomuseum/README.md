@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Namco Museum"
+parent: SEGA Dreamcast Saves
+permalink: ./namcomuseum/
+---
 # Namco Museum
 
 ## VMU Saves

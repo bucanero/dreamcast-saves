@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spawn: In the Demon's Hand"
+parent: SEGA Dreamcast Saves
+permalink: ./spawn/
+---
 # Spawn: In the Demon's Hand
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Princess Holiday"
+parent: SEGA Dreamcast Saves
+permalink: ./princessh/
+---
 # Princess Holiday
 
 ## VMU Saves

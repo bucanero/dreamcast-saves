@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Armada"
+parent: SEGA Dreamcast Saves
+permalink: ./armada/
+---
 # Armada
 
 ## VMU Saves

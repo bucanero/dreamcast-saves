@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Memories Off Complete"
+parent: SEGA Dreamcast Saves
+permalink: ./memoff/
+---
 # Memories Off Complete
 
 ## VMU Saves

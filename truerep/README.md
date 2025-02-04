@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kono Hana True Report"
+parent: SEGA Dreamcast Saves
+permalink: ./truerep/
+---
 # Kono Hana True Report
 
 ## VMU Saves

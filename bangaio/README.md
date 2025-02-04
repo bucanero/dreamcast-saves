@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bangai-O"
+parent: SEGA Dreamcast Saves
+permalink: ./bangaio/
+---
 # Bangai-O
 
 ## VMU Saves

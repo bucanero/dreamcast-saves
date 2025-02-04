@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Prince of Persia: Arabian Nights"
+parent: SEGA Dreamcast Saves
+permalink: ./prince/
+---
 # Prince of Persia: Arabian Nights
 
 ## VMU Saves

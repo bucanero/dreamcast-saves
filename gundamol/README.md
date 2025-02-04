@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gundam Battle Online"
+parent: SEGA Dreamcast Saves
+permalink: ./gundamol/
+---
 # Gundam Battle Online
 
 ## VMU Saves

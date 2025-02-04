@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Evolution"
+parent: SEGA Dreamcast Saves
+permalink: ./evolution/
+---
 # Evolution
 
 ## VMU Saves

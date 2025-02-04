@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Never 7: The End of Infinity"
+parent: SEGA Dreamcast Saves
+permalink: ./never7/
+---
 # Never 7: The End of Infinity
 
 ## VMU Saves

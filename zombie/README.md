@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Zombie Revenge"
+parent: SEGA Dreamcast Saves
+permalink: ./zombie/
+---
 # Zombie Revenge
 
 ## VMU Saves

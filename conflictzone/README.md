@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Conflict Zone"
+parent: SEGA Dreamcast Saves
+permalink: ./conflictzone/
+---
 # Conflict Zone
 
 ## VMU Saves

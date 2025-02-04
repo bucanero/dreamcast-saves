@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Puyo Pop Fever"
+parent: SEGA Dreamcast Saves
+permalink: ./puyofever/
+---
 # Puyo Pop Fever
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NCAA College Football 2K2: Road to the Rose Bowl"
+parent: SEGA Dreamcast Saves
+permalink: ./ncaa/
+---
 # NCAA College Football 2K2: Road to the Rose Bowl
 
 ## VMU Saves

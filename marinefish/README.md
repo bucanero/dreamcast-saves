@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Marine Fishing"
+parent: SEGA Dreamcast Saves
+permalink: ./marinefish/
+---
 # Sega Marine Fishing
 
 ## VMU Saves

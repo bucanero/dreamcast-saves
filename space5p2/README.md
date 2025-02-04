@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Space Channel 5 Part 2"
+parent: SEGA Dreamcast Saves
+permalink: ./space5p2/
+---
 # Space Channel 5 Part 2
 
 ## VMU Saves

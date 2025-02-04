@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Virtua Striker 2"
+parent: SEGA Dreamcast Saves
+permalink: ./virtuastriker/
+---
 # Virtua Striker 2
 
 ## VMU Saves

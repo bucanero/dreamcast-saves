@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Canvas"
+parent: SEGA Dreamcast Saves
+permalink: ./canvas/
+---
 # Canvas
 
 ## VMU Saves

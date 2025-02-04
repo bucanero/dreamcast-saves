@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Spec Ops: Omega Squad"
+parent: SEGA Dreamcast Saves
+permalink: ./specopsomega/
+---
 # Spec Ops: Omega Squad
 
 ## VMU Saves

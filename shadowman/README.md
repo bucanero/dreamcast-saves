@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shadow Man"
+parent: SEGA Dreamcast Saves
+permalink: ./shadowman/
+---
 # Shadow Man
 
 ## VMU Saves

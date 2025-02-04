@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Rhapsody Of Zephyr"
+parent: SEGA Dreamcast Saves
+permalink: ./rzephyr/
+---
 # The Rhapsody Of Zephyr
 
 ## VMU Saves

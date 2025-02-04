@@ -1,3 +1,9 @@
+---
+layout: default
+title: "July"
+parent: SEGA Dreamcast Saves
+permalink: ./july/
+---
 # July
 
 ## VMU Saves

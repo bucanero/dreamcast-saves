@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Disney World Magical Racing Tour"
+parent: SEGA Dreamcast Saves
+permalink: ./disneymagical/
+---
 # Disney World Magical Racing Tour
 
 ## VMU Saves

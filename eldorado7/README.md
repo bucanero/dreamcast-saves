@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Eldorado Gate 7"
+parent: SEGA Dreamcast Saves
+permalink: ./eldorado7/
+---
 # Eldorado Gate 7
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MTV Sports: Skateboarding"
+parent: SEGA Dreamcast Saves
+permalink: ./mtvskate/
+---
 # MTV Sports: Skateboarding
 
 ## VMU Saves

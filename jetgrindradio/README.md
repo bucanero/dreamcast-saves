@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jet Grind Radio"
+parent: SEGA Dreamcast Saves
+permalink: ./jetgrindradio/
+---
 # Jet Grind Radio
 
 ## VMU Saves

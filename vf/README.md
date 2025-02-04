@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Virtua Fighter 3: Team Battle"
+parent: SEGA Dreamcast Saves
+permalink: ./vf/
+---
 # Virtua Fighter 3: Team Battle
 
 ## VMU Saves

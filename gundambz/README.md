@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gundam: Blood Of Zeon"
+parent: SEGA Dreamcast Saves
+permalink: ./gundambz/
+---
 # Gundam: Blood Of Zeon
 
 ## VMU Saves

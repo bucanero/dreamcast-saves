@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Caesar's Palace 2000"
+parent: SEGA Dreamcast Saves
+permalink: ./caesar/
+---
 # Caesar's Palace 2000
 
 ## VMU Saves

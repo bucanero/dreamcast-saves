@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Prismaticallization"
+parent: SEGA Dreamcast Saves
+permalink: ./prismatic/
+---
 # Prismaticallization
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Metropolis Street Racer"
+parent: SEGA Dreamcast Saves
+permalink: ./metropolisracer/
+---
 # Metropolis Street Racer
 
 ## VMU Saves

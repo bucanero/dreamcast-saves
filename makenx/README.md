@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Maken X"
+parent: SEGA Dreamcast Saves
+permalink: ./makenx/
+---
 # Maken X
 
 ## VMU Saves

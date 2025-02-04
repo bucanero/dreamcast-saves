@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Deep Fighter"
+parent: SEGA Dreamcast Saves
+permalink: ./deepfighter/
+---
 # Deep Fighter
 
 ## VMU Saves

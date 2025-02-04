@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Guilty Gear X"
+parent: SEGA Dreamcast Saves
+permalink: ./guiltygearx/
+---
 # Guilty Gear X
 
 ## VMU Saves

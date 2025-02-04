@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Daytona USA"
+parent: SEGA Dreamcast Saves
+permalink: ./daytona/
+---
 # Daytona USA
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Wacky Races"
+parent: SEGA Dreamcast Saves
+permalink: ./wackyraces/
+---
 # Wacky Races
 
 ## VMU Saves

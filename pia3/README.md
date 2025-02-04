@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pia Carrot 3"
+parent: SEGA Dreamcast Saves
+permalink: ./pia3/
+---
 # Pia Carrot 3
 
 ## VMU Saves

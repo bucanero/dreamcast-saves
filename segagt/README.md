@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega GT"
+parent: SEGA Dreamcast Saves
+permalink: ./segagt/
+---
 # Sega GT
 
 ## VMU Saves

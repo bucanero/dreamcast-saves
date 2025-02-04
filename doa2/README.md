@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dead or Alive 2"
+parent: SEGA Dreamcast Saves
+permalink: ./doa2/
+---
 # Dead or Alive 2
 
 ## VMU Saves

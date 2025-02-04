@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ECW: Hardcore Revolution"
+parent: SEGA Dreamcast Saves
+permalink: ./ecw/
+---
 # ECW: Hardcore Revolution
 
 ## VMU Saves

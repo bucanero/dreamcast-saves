@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tomb Raider: The Last Revelation"
+parent: SEGA Dreamcast Saves
+permalink: ./tombraider/
+---
 # Tomb Raider: The Last Revelation
 
 ## VMU Saves

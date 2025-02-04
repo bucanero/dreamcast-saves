@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Star Seeker - Doki Doki Idol Remix"
+parent: SEGA Dreamcast Saves
+permalink: ./starseek/
+---
 # Star Seeker - Doki Doki Idol Remix
 
 ## VMU Saves

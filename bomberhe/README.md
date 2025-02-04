@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Bomber Hehhe"
+parent: SEGA Dreamcast Saves
+permalink: ./bomberhe/
+---
 # Bomber Hehhe
 
 ## VMU Saves

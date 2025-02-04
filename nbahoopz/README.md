@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NBA Hoopz"
+parent: SEGA Dreamcast Saves
+permalink: ./nbahoopz/
+---
 # NBA Hoopz
 
 ## VMU Saves

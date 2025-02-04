@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Stunt GP"
+parent: SEGA Dreamcast Saves
+permalink: ./stuntgp/
+---
 # Stunt GP
 
 ## VMU Saves

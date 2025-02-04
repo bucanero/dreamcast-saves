@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Giant Gram 2000"
+parent: SEGA Dreamcast Saves
+permalink: ./giantgram/
+---
 # Giant Gram 2000
 
 ## VMU Saves

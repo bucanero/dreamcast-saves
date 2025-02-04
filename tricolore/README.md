@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tricolore Crise"
+parent: SEGA Dreamcast Saves
+permalink: ./tricolore/
+---
 # Tricolore Crise
 
 ## VMU Saves

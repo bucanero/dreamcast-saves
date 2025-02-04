@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sakura Card Captor: Tomoyo Video"
+parent: SEGA Dreamcast Saves
+permalink: ./sakura_card/
+---
 # Sakura Card Captor: Tomoyo Video
 
 ## VMU Saves

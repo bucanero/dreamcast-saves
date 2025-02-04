@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Shenmue Chapter 1: Yokosuka"
+parent: SEGA Dreamcast Saves
+permalink: ./shenmue/
+---
 # Shenmue Chapter 1: Yokosuka
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "4 Wheel Thunder"
+parent: SEGA Dreamcast Saves
+permalink: ./4wheelthunder/
+---
 # 4 Wheel Thunder
 
 ## VMU Saves

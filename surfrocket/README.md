@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Surf Rocket Racers"
+parent: SEGA Dreamcast Saves
+permalink: ./surfrocket/
+---
 # Surf Rocket Racers
 
 ## VMU Saves

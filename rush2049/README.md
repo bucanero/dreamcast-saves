@@ -1,3 +1,9 @@
+---
+layout: default
+title: "San Francisco Rush 2049"
+parent: SEGA Dreamcast Saves
+permalink: ./rush2049/
+---
 # San Francisco Rush 2049
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Test Drive V-Rally"
+parent: SEGA Dreamcast Saves
+permalink: ./vrally/
+---
 # Test Drive V-Rally
 
 ## VMU Saves

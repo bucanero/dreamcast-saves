@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Samba de Amigo"
+parent: SEGA Dreamcast Saves
+permalink: ./samba/
+---
 # Samba de Amigo
 
 ## VMU Saves

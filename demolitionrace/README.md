@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Demolition Racer: No Exit"
+parent: SEGA Dreamcast Saves
+permalink: ./demolitionrace/
+---
 # Demolition Racer: No Exit
 
 ## VMU Saves

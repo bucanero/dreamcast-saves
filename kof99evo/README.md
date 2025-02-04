@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The King Of Fighters 99 Evolution"
+parent: SEGA Dreamcast Saves
+permalink: ./kof99evo/
+---
 # The King Of Fighters 99 Evolution
 
 ## VMU Saves

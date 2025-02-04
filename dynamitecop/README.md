@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dynamite Cop"
+parent: SEGA Dreamcast Saves
+permalink: ./dynamitecop/
+---
 # Dynamite Cop
 
 ## VMU Saves

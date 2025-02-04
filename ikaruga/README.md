@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ikaruga"
+parent: SEGA Dreamcast Saves
+permalink: ./ikaruga/
+---
 # Ikaruga
 
 ## VMU Saves

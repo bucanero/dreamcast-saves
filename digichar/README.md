@@ -1,3 +1,9 @@
+---
+layout: default
+title: "DiGi Charat Fantasy"
+parent: SEGA Dreamcast Saves
+permalink: ./digichar/
+---
 # DiGi Charat Fantasy
 
 ## VMU Saves

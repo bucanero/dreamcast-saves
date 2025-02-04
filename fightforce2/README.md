@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fighting Force 2"
+parent: SEGA Dreamcast Saves
+permalink: ./fightforce2/
+---
 # Fighting Force 2
 
 ## VMU Saves

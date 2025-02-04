@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Silver"
+parent: SEGA Dreamcast Saves
+permalink: ./silver/
+---
 # Silver
 
 ## VMU Saves

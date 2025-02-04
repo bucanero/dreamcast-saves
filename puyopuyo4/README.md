@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Puyo Puyo 4"
+parent: SEGA Dreamcast Saves
+permalink: ./puyopuyo4/
+---
 # Puyo Puyo 4
 
 ## VMU Saves

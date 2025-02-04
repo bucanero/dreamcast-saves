@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rayman 2: The Great Escape"
+parent: SEGA Dreamcast Saves
+permalink: ./rayman2/
+---
 # Rayman 2: The Great Escape
 
 ## VMU Saves

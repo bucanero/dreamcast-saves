@@ -1,3 +1,9 @@
+---
+layout: default
+title: "F1 World Grand Prix"
+parent: SEGA Dreamcast Saves
+permalink: ./f1worldprix/
+---
 # F1 World Grand Prix
 
 ## VMU Saves

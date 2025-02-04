@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Ready 2 Rumble Boxing"
+parent: SEGA Dreamcast Saves
+permalink: ./ready_rumble/
+---
 # Ready 2 Rumble Boxing
 
 ## VMU Saves

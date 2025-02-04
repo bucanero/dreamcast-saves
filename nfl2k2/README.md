@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Sega Sports NFL 2K2"
+parent: SEGA Dreamcast Saves
+permalink: ./nfl2k2/
+---
 # Sega Sports NFL 2K2
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kao the Kangaroo"
+parent: SEGA Dreamcast Saves
+permalink: ./kao/
+---
 # Kao the Kangaroo
 
 ## VMU Saves

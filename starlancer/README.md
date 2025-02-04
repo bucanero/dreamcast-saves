@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Star Lancer"
+parent: SEGA Dreamcast Saves
+permalink: ./starlancer/
+---
 # Star Lancer
 
 ## VMU Saves

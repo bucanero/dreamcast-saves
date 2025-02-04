@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Omikron: The Nomad Soul"
+parent: SEGA Dreamcast Saves
+permalink: ./omikron/
+---
 # Omikron: The Nomad Soul
 
 ## VMU Saves

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rent A Hero No. 1"
+parent: SEGA Dreamcast Saves
+permalink: ./rentahero/
+---
 # Rent A Hero No. 1
 
 ## VMU Saves

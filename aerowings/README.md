@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Aero Wings"
+parent: SEGA Dreamcast Saves
+permalink: ./aerowings/
+---
 # Aero Wings
 
 ## VMU Saves

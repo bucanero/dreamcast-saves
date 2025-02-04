@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Evil Twin"
+parent: SEGA Dreamcast Saves
+permalink: ./eviltwin/
+---
 # Evil Twin
 
 ## VMU Saves

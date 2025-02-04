@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gauntlet Legends"
+parent: SEGA Dreamcast Saves
+permalink: ./gauntletlegends/
+---
 # Gauntlet Legends
 
 ## VMU Saves
