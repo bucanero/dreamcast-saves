@@ -20,7 +20,6 @@ permalink: ./tombraider/
 | ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.000.GIF) | `TOMBRAID.000` | [v25755.vmi](v25755.vmi) | [v25755.VMS](v25755.VMS) | Under the Spinx!  |
 | ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.SYS.GIF) | `TOMBRAID.SYS` | [v33314.vmi](v33314.vmi) | [v33314.VMS](v33314.VMS) | This is system save. It unlocks all of the pictures in gallery section.  |
 | ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.001.GIF) | `TOMBRAID.001` | [v76754.vmi](v76754.vmi) | [v76754.VMS](v76754.VMS) | end of game  |
-| ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.SYS.GIF) | `TOMBRAID.SYS` | [v33314.vmi](v33314.vmi) | [v33314.VMS](v33314.VMS) | All secrets found in angkor wat level, this willhave you racing von croy to the iris using the hardest route.  |
 | ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.001.GIF) | `TOMBRAID.001` | [v78133.vmi](v78133.vmi) | [v78133.VMS](v78133.VMS) | all weapons etc....  |
 | ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.001.GIF) | `TOMBRAID.001` | [v99644.vmi](v99644.vmi) | [v99644.VMS](v99644.VMS) | STARS AT THE TOMB AT THE SETH WITH ALL WEAPONS,AMMOR,ETC.   |
 | ![Tomb Raider: The Last Revelation](../icons/TOMBRAID.000.GIF) | `TOMBRAID.000` | [00000001.vmi](00000001.vmi) | [00000001.VMS](00000001.VMS) | Perfect Save! Everything Unlocked! |

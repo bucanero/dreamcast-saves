@@ -8,7 +8,6 @@ v22876.vmi=Start at the Tomb of seth withunlimted everything ammo, life pacs,wea
 v25755.vmi=Under the Spinx! 
 v33314.vmi=This is system save. It unlocks all of the pictures in gallery section. 
 v76754.vmi=end of game 
-v33314.vmi=All secrets found in angkor wat level, this willhave you racing von croy to the iris using the hardest route. 
 v78133.vmi=all weapons etc.... 
 v99644.vmi=STARS AT THE TOMB AT THE SETH WITH ALL WEAPONS,AMMOR,ETC.  
 00000001.vmi=Perfect Save! Everything Unlocked!

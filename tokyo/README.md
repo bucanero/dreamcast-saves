@@ -27,7 +27,6 @@ permalink: ./tokyo/
 | ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [v49845.vmi](v49845.vmi) | [v49845.VMS](v49845.VMS) | all cars open even head boss. 5 cars fully upgraded.all rival beat. over $800,000 in cash.  |
 | ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [v83558.vmi](v83558.vmi) | [v83558.VMS](v83558.VMS) | All rivals beaten,about 250,000 to spend, and 3 maxed out cars.  |
 | ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [v41403.vmi](v41403.vmi) | [v41403.VMS](v41403.VMS) | all cars and more money than any ofthese downloads here  |
-| ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [v25231.vmi](v25231.vmi) | [v25231.VMS](v25231.VMS) | Every car unlocked with all rivals beaten.has 9.5 million CP'S.  |
 | ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [v51803.vmi](v51803.vmi) | [v51803.VMS](v51803.VMS) | All rivals beaten,including the devils.10 cars fully upgraded. Plus$212077cp left to spend.  |
 | ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [00000598.vmi](00000598.vmi) | [00000598.VMS](00000598.VMS) | All rivals beaten, including devils and devas. 4 cars, Civic SiR, Nissan GT-R, s2000, Porsche 911.  |
 | ![Tokyo Xtreme Racer](../icons/SHUTOKOUB000.GIF) | `SHUTOKOUB000` | [00000015.vmi](00000015.vmi) | [00000015.VMS](00000015.VMS) | Jap Perfect Save! All Open! |
